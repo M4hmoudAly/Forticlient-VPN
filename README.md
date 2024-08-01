@@ -8,3 +8,9 @@ The FortiClient VPN GitHub Action workflow automates the installation and config
 - Automated installation of FortiClient VPN
 - Configuration of VPN settings
 - Support for multiple VPN profiles
+
+# Requirements
+- GateWay
+- port
+- Vpn Username
+- Vpn Password
