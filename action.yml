@@ -1,4 +1,6 @@
 name: Setup and Manage FortiClient VPN
+author: Mahmoud Aly
+description: Github Action to configure Forticlient-VPN
 
 on:
   push:
