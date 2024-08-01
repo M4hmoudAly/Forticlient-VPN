@@ -1,4 +1,4 @@
-name: FortiClient-VPN
+name: FortiClient VPN Setup and Manage 
 author: Mahmoud Aly
 description: Github Action to configure Forticlient-VPN
 branding: 
