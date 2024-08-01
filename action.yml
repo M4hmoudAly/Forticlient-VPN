@@ -1,6 +1,6 @@
 name: FortiClient VPN Setup and Manage 
 author: Mahmoud Aly
-description: Github Action to configure Forticlient-VPN
+description: Github Action to configure and connect to Forticlient-VPN
 branding: 
   icon: 'airplay'
   color: 'black'
